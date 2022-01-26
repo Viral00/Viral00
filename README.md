@@ -10,7 +10,7 @@
 
 -  I’m currently learning **Advanced Data Structures and Algorithms.**
 
--  This is where you can see all my projects. **[My Portfolio](https://subhamraoniar.com)**
+-  This is where you can see all my projects. **[My Portfolio](https://viral00.wixsite.com/viral-ghag)**
 
 -  You can reach me through **viralghag@gmail.com**
 
